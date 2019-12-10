@@ -1,0 +1,77 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/simulation/modelsim
+vhard_block
+Z1 !s110 1526388129
+!i10b 1
+!s100 R1YzNeYjL1_K;Qg^]lN=`0
+I@mdkk^[^Qo<P`5aROaPYg2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1526387948
+Z4 8sobel_6_1200mv_85c_slow.vo
+Z5 Fsobel_6_1200mv_85c_slow.vo
+L0 22401
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1526388128.000000
+Z8 !s107 sobel_6_1200mv_85c_slow.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|sobel_6_1200mv_85c_slow.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+vimage_TB
+R1
+!i10b 1
+!s100 oWODYhL@TIk?PO9;PaPOV2
+IO?9LCA`z0ld4P_SjZIjoS2
+R2
+R0
+w1523503262
+8C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v
+FC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1526388129.000000
+!s107 C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim|C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim
+R12
+nimage_@t@b
+vsobel
+R1
+!i10b 1
+!s100 Ll2b>oiZ3gXO`mnjoUEzZ3
+I<@o<_ZBDUM=lQo9N9N]JU2
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

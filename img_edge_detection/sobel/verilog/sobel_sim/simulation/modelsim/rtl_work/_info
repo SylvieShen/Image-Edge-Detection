@@ -1,0 +1,147 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/simulation/modelsim
+vimage_TB
+Z1 !s110 1526464261
+!i10b 1
+!s100 oWODYhL@TIk?PO9;PaPOV2
+IO?9LCA`z0ld4P_SjZIjoS2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1526463547
+8C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v
+FC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1526464261.000000
+!s107 C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim|C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim
+Z7 tCvgOpt 0
+nimage_@t@b
+vLineBuffer_3
+R1
+!i10b 1
+!s100 @5D6l<LanW79ZHg2C^F^73
+I2YEN>eBa;F9nNEoF@1c=e0
+R2
+R0
+w1220069670
+8C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v
+FC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v
+Z8 L0 39
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim|C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v|
+!i113 1
+R5
+R6
+R7
+n@line@buffer_3
+vMAC_3
+R1
+!i10b 1
+!s100 @^La`B4QRfn1WJaF`YbdV3
+Ize8=j[nf95OdXiB_H;<3O1
+R2
+R0
+w1219584116
+8C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v
+FC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim|C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v|
+!i113 1
+R5
+R6
+R7
+n@m@a@c_3
+vPA_3
+R1
+!i10b 1
+!s100 N_lbVKM=I1I>6[a@j=F[Y3
+I;[Ab1boaCmDn@G]=WKP9d1
+R2
+R0
+w1219584334
+8C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/PA_3.v
+FC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/PA_3.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/PA_3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim|C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/PA_3.v|
+!i113 1
+R5
+R6
+R7
+n@p@a_3
+vsobel
+!s110 1526464260
+!i10b 1
+!s100 mRNUGS0hTKPWlgP6oPgNj3
+IikDGHAGI]0gYPHTcjOUIB1
+R2
+R0
+w1523502566
+8C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v
+FC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v
+L0 10
+R3
+r1
+!s85 0
+31
+!s108 1526464260.000000
+!s107 C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim|C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v|
+!i113 1
+R5
+R6
+R7
+vSQRT
+R1
+!i10b 1
+!s100 OzhFR0]J04K3PFnLjV3kC1
+ITN7hRbT8@?ddGEMM?KKn20
+R2
+R0
+w1219638800
+8C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v
+FC:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim|C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v|
+!i113 1
+R5
+R6
+R7
+n@s@q@r@t

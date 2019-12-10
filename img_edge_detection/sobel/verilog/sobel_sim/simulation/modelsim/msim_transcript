@@ -1,0 +1,155 @@
+# Reading C:/intelFPGA/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do sobel_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim {C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:51:00 on May 16,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim" C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v 
+# -- Compiling module sobel
+# 
+# Top level modules:
+# 	sobel
+# End time: 17:51:00 on May 16,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim {C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:51:01 on May 16,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim" C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v 
+# -- Compiling module SQRT
+# 
+# Top level modules:
+# 	SQRT
+# End time: 17:51:01 on May 16,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim {C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/PA_3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:51:01 on May 16,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim" C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/PA_3.v 
+# -- Compiling module PA_3
+# 
+# Top level modules:
+# 	PA_3
+# End time: 17:51:01 on May 16,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim {C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:51:01 on May 16,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim" C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v 
+# -- Compiling module MAC_3
+# 
+# Top level modules:
+# 	MAC_3
+# End time: 17:51:01 on May 16,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim {C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:51:01 on May 16,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim" C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v 
+# -- Compiling module LineBuffer_3
+# 
+# Top level modules:
+# 	LineBuffer_3
+# End time: 17:51:01 on May 16,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim {C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:51:01 on May 16,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim" C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v 
+# -- Compiling module image_TB
+# 
+# Top level modules:
+# 	image_TB
+# End time: 17:51:01 on May 16,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  image_TB
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" image_TB 
+# Start time: 17:51:02 on May 16,2018
+# Loading work.image_TB
+# Loading work.sobel
+# Loading work.LineBuffer_3
+# Loading altera_mf_ver.altshift_taps
+# Loading work.MAC_3
+# Loading altera_mf_ver.altmult_add
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading work.PA_3
+# Loading altera_mf_ver.parallel_add
+# Loading work.SQRT
+# Loading altera_mf_ver.altsqrt
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v(48): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/b0 File: C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v(48): [TFMPC] - Missing connection for port 'shiftout'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v(67): [TFMPC] - Too few port connections. Expected 7, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/b0/altshift_taps_component File: /build/swbuild/SJ/nightly/17.1std/590/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v(67): [TFMPC] - Missing connection for port 'aclr'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/LineBuffer_3.v(67): [TFMPC] - Missing connection for port 'sclr'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Too few port connections. Expected 52, found 47.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/x0/ALTMULT_ADD_component File: /build/swbuild/SJ/nightly/17.1std/590/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'datac'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel0'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel1'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel2'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel3'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Too few port connections. Expected 52, found 47.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/x1/ALTMULT_ADD_component File: /build/swbuild/SJ/nightly/17.1std/590/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'datac'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel0'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel1'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel2'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel3'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Too few port connections. Expected 52, found 47.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/x2/ALTMULT_ADD_component File: /build/swbuild/SJ/nightly/17.1std/590/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'datac'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel0'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel1'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel2'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel3'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Too few port connections. Expected 52, found 47.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/y0/ALTMULT_ADD_component File: /build/swbuild/SJ/nightly/17.1std/590/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'datac'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel0'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel1'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel2'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel3'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Too few port connections. Expected 52, found 47.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/y1/ALTMULT_ADD_component File: /build/swbuild/SJ/nightly/17.1std/590/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'datac'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel0'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel1'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel2'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel3'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Too few port connections. Expected 52, found 47.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/y2/ALTMULT_ADD_component File: /build/swbuild/SJ/nightly/17.1std/590/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'datac'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel0'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel1'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel2'.
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/MAC_3.v(66): [TFMPC] - Missing connection for port 'coefsel3'.
+# ** Warning: (vsim-3017) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v(135): [TFMPC] - Too few port connections. Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/sqrt0 File: C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v
+# ** Warning: (vsim-3015) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v(135): [PCDPC] - Port size (32) does not match connection size (20) for port 'radical'. The port definition is at: C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v(41).
+#    Time: 0 ps  Iteration: 0  Instance: /image_TB/sobel0/sqrt0 File: C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/SQRT.v
+# ** Warning: (vsim-3722) C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/sobel.v(135): [TFMPC] - Missing connection for port 'remainder'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# 0x00: f0
+# ** Note: $stop    : C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v(54)
+#    Time: 15436800 ns  Iteration: 0  Instance: /image_TB
+# Break in Module image_TB at C:/signal2/lab3_image_skeleton_code_v18/sobel/verilog/sobel_sim/image_TB.v line 54
+# End time: 17:53:48 on May 16,2018, Elapsed time: 0:02:46
+# Errors: 0, Warnings: 44

@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "oDATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[8]",
+					"strict" : false
+				},
+				{
+					"name" : "oDATA[9]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[7]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[6]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[5]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[4]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[3]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[2]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[1]",
+					"strict" : false
+				},
+				{
+					"name" : "iTHRESHOLD[0]",
+					"strict" : false
+				},
+				{
+					"name" : "iCLK",
+					"strict" : false
+				},
+				{
+					"name" : "iRST_N",
+					"strict" : false
+				},
+				{
+					"name" : "iDVAL",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[8]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[9]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

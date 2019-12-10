@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed May 16 17:53:20 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : sobel
+Top-level Entity Name : sobel
+Family : Cyclone IV E
+Device : EP4CE6E22C6
+Timing Models : Final
+Total logic elements : 613 / 6,272 ( 10 % )
+    Total combinational functions : 565 / 6,272 ( 9 % )
+    Dedicated logic registers : 291 / 6,272 ( 5 % )
+Total registers : 291
+Total pins : 31 / 92 ( 34 % )
+Total virtual pins : 0
+Total memory bits : 15,312 / 276,480 ( 6 % )
+Embedded Multiplier 9-bit elements : 30 / 30 ( 100 % )
+Total PLLs : 0 / 2 ( 0 % )

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed May 16 17:53:10 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : sobel
+Top-level Entity Name : sobel
+Family : Cyclone IV E
+Total logic elements : 657
+    Total combinational functions : 564
+    Dedicated logic registers : 329
+Total registers : 329
+Total pins : 31
+Total virtual pins : 0
+Total memory bits : 15,312
+Embedded Multiplier 9-bit elements : 30
+Total PLLs : 0

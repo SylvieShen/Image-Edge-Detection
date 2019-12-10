@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at freq_meters.v(17): always construct contains both blocking and non-blocking assignments File: C:/signal2/lab3_image_skeleton_code_v18/DE1_SoC_TV/chunklib/freq_meters.v Line: 17
+Warning (10268): Verilog HDL information at shift_lineS.v(9): always construct contains both blocking and non-blocking assignments File: C:/signal2/lab3_image_skeleton_code_v18/DE1_SoC_TV/dsp/median_filter/shift_lineS.v Line: 9
